@@ -1,0 +1,6 @@
+{
+    "name": "waave/waave-compliance",
+    "require": {
+        "automattic/woocommerce": "^3.0"
+    }
+}
